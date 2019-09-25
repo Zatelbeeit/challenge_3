@@ -1,0 +1,28 @@
+== Exercice 3 : Intégration "Pastime" ==
+
+Pour cette exercice, vous avez uniquement une maquette sans les mesures.
+
+Vous devez donc effectuer les mesures vous-mêmes à l'aide de Gimp et de son outil "mesure". La maquette étant en 100% vous aurez exactement la taille de vos blocs et élements.
+
+Vous devez également utiliser Gimp pour trouver les couleurs des éléments à l'aide de l'outil "pipette"
+
+Zone de travail :
+- La zone de travail principale fait 1000px de large et est centrée dans la page. Cela signifie qu'aucun texte ou élément ne peux sortir de cette zone.
+- Les fonds occupent tout l'écran par contre
+
+Fonts :
+- la typo utilisée est "News Cycle" (Google fonts)
+
+Couleurs :
+- texte vert (rollover) : #27AE61
+- texte gris foncé : #2B3F48
+- gris clair : #656565
+
+Navigation :
+- la barre en haut à droite est une nav donc il faut mettre des liens internes pour naviger dans la page.
+Il y a un rollover en vert sur les liens.
+
+
+Remarques :
+- Comme d'habitude vous pouvez utiliser du faux texte partout (http://hipsum.co/)
+- Les images sont dans le dossier "images"
